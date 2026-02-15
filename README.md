@@ -1,7 +1,6 @@
 # Hey, I'm Adaz 👋
 
 I'm a full-stack developer & FiveM enthusiast - crafting creative and highly functional scripts for roleplay servers.  
-💻 Co-founder of [PixelPrecision Studio](https://pixelprecision.dev)  
 🎨 My personal portfolio: [adaz.dev](https://adaz.dev)
 <p align="left">
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white" />
@@ -39,5 +38,8 @@ I'm a full-stack developer & FiveM enthusiast - crafting creative and highly fun
 
 ## 📊 GitHub Stats
 
-![Adaz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adazdef&show_icons=true&theme=synthwave)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Adazdef&theme=synthwave&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adazdef&theme=synthwave&hide_border=true" />
+</p>
 
